@@ -1,0 +1,9 @@
+C:\tfs2013\AirOps\Code\Tools\BuildAuto\TesNewBuildserver\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\tfs2013\AirOps\Code\Tools\BuildAuto\TesNewBuildserver\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\tfs2013\AirOps\Code\Tools\BuildAuto\TesNewBuildserver\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\tfs2013\AirOps\Code\Tools\BuildAuto\TesNewBuildserver\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\tfs2013\AirOps\Code\Tools\BuildAuto\TesNewBuildserver\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\tfs2013\AirOps\Code\Tools\BuildAuto\TesNewBuildserver\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\tfs2013\AirOps\Code\Tools\BuildAuto\TesNewBuildserver\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\tfs2013\AirOps\Code\Tools\BuildAuto\TesNewBuildserver\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\tfs2013\AirOps\Code\Tools\BuildAuto\TesNewBuildserver\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
